@@ -1,6 +1,5 @@
-<h1>Hi, I'm Montre'quon!
-
-  <a href="https://linkedin.com/in/montre’quon-wheeler-23ab8b1a1/">IT Professional</a></h1>
+<h1>Hi, I'm Montre'quon, an
+<a href="https://linkedin.com/in/montre’quon-wheeler-23ab8b1a1/">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 

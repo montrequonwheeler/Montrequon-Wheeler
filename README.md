@@ -3,6 +3,9 @@
 
 <h2>Information Technology Projects:</h2>
 
+- <b>Active Directory</b>
+  - [Prerequisites and Installation](https://github.com/montrequonwheeler/osticket-prereqs)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/montrequonwheeler/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/montrequonwheeler/post-install-config)

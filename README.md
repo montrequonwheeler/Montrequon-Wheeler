@@ -5,6 +5,10 @@
 
 - <b>Active Directory</b>
   - [Active Directory: Installation](https://github.com/montrequonwheeler/active-directory)
+  - [Network File Shares and Permissions](https://github.com/montrequonwheeler/network-file-shares-and-permissions)
+
+- <b>Building Intuition for DNS</b>
+  - [Building Intuition for DNS](https://github.com/montrequonwheeler/building-intuition-for-dns)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/montrequonwheeler/osticket-prereqs)

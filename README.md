@@ -4,7 +4,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Networking</b>
-  - [Performing Activities on the Network](https://github.com/montrequonwheeler/active-directory)
+  - [Performing Activities on the Network]([https://github.com/montrequonwheeler/active-directory](https://github.com/montrequonwheeler/Performing-Activities-on-the-Network))
 
 - <b>Active Directory</b>
   - [Active Directory: Installation](https://github.com/montrequonwheeler/active-directory)
